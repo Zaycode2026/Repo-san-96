@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My_repo</title>
+
+<style>
+div { font-family: Arial, sans-serif;
+  text-align: center;
+  color: black;
+  background-color: lightgray;
+  width: 300px;
+  padding: 22px;
+  border-radius: 12px;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  font-family: Arial, sans-serif;
+}
+img {width: 150px;
+  height: 150px;
+  border-radius: 50%;
+object-fit: cover;
+}
+
+h1 {font-family: Arial, sans-serif;}
+
+button {color: white;
+  font-size: 18px;
+  background-color: rgb(33, 150, 243);
+ border:none;
+  padding: 10px 20px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+button:hover {background-color: green;
+  
+}
+a {
+    text-decoration: none;
+  color: white;
+}
+
+.jobrole {
+  color: black;
+  font-size: 19px;
+  
+}
+</style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<!---head ends--->
+</head>
+
+<body>
+    <div>
+  <img src="https://i.postimg.cc/c4bHJBdy/Pi7-Passport-Photo-2.jpg"alt="my profile image">
+  <h1>Sanjay Thapa</h1>
+  <p class="jobrole">Quality Analyst & Web Development Learner</p>    
+<p>
+
+Passionate about tech, quality analysis, and exploring front-end development. Currently practicing HTML, CSS, and building mini projects.</p>
+  
+
+
+<p>📧 sanjthap96@gmail.com</p>
+<p>📞 +91982-142-295-2</p>
+  <p>
+  <i class="fab fa-github"></i> https://github.com/Zaycode2026 </p>
+  <button><a href="mailto:sanjthap96@gmail.com">Contact me</a> </button>
+</div>
+
+</body>
+</html>
+
